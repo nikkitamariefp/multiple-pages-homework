@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: green;
+  margin: 5px;
+}
+
+.container {
+  padding: 20px;
+}
+
+.container-about {
+  background-color: #080607;
+  padding: 20px;
+}
+
+.about-us-heading,
+.photo-source {
+  color: white;
+}
+
+.photo-source {
+  font-size: 10px;
+}
+
+.links {
+  margin-top: 40px;
+  text-align: center;
+  display: block;
+}
