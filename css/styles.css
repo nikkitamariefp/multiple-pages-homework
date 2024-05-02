@@ -27,6 +27,12 @@ a {
   color: white;
 }
 
+.croissant-photo {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+}
+
 .photo-source {
   font-size: 10px;
 }
